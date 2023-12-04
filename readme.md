@@ -3,7 +3,10 @@ For the joy of coding.
 
 ## Day 1
 This was interesting. 
+Eh..not too shabby
 
-Part 1 - the challenge here was a single line can contain only a single number, handling that was the trick imo.
+## Day 2
+Fun times
 
-Part 2 - did not do but I'm assuming need to do a form of sliding window to parse out the numbers and then do the same apporach to part 1.
+## Day 3
+This one took a min to mull over and come up with an approach
