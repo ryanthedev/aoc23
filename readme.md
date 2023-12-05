@@ -10,3 +10,6 @@ Fun times
 
 ## Day 3
 This one took a min to mull over and come up with an approach
+
+## Day 4
+I don't know why but doing the total took me the longest. 
